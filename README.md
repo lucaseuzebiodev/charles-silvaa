@@ -1,4 +1,4 @@
-Oi eu sou o Charles
+Oi! eu sou o Charles,
 
 - 🌱 Estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas
 - 👯 Mesmo em nível inicial, procuro por uma oportunidade de estágio
