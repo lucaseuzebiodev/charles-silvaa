@@ -1,11 +1,11 @@
 Oi! eu sou o Charles,
 
-- 🌱 Estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas
-- 👯 Mesmo sendo iniciante, procuro por uma oportunidade de estágio
-- 📫 31 99378-8476
+- 🌱 Estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas
+- 👯 
+- 📫 31 99310-0739
 
 <div>
-  <a href="https://github.com/charles-silvaa">
+  <a href="https://github.com/lucaseuzebiodev">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=charles-silvaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles-silvaa&layout=compact&langs_count=7&theme=dark"/>
 </div>
