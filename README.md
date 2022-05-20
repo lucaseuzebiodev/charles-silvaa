@@ -6,8 +6,8 @@ Oi! eu sou o Lucas,
 
 <div>
   <a href="https://github.com/lucaseuzebiodev">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=charles-silvaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles-silvaa&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=lucaseuzebiodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseuzebiodev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   
