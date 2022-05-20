@@ -1,7 +1,7 @@
-Oi! eu sou o Charles,
+Oi! eu sou o Lucas,
 
 - 🌱 Estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas
-- 👯 
+- 👯 E faço alguns cursos extras para aprimorar
 - 📫 31 99310-0739
 
 <div>
@@ -11,6 +11,6 @@ Oi! eu sou o Charles,
 </div>
 
   
-  <a href="https://www.linkedin.com/in/charles-silva-7b2526203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:charlessilva928@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/charles.c_silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/charles-euz%C3%A9bio-42b814113/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lucas.eumendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/lucas.euzzimbium/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
