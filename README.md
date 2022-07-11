@@ -1,6 +1,6 @@
 Oi! eu sou o Lucas,
 
-- 🌱 Estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas
+- 🌱 Estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas
 - 👯 E faço alguns cursos extras para aprimorar
 - 📫 31 99310-0739
 
