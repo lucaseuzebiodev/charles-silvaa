@@ -1,8 +1,8 @@
 Oi! eu sou o Lucas,
 
-- 🌱 Estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas
-- 👯 E faço alguns cursos extras para aprimorar
-- 📫 31 99310-0739
+- 🌱 Aprendendo a desenvolver
+- 👯 VB/ C#
+- 📫 31 00000-0009
 
 <div>
   <a href="https://github.com/lucaseuzebiodev">
